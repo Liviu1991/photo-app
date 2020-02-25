@@ -24,6 +24,7 @@ gem 'turbolinks', '~> 5'
 gem 'devise'
 gem 'devise-bootstrap-views'
 gem 'jquery-rails'
+gem 'stripe'
 gem 'twitter-bootstrap-rails'
 
 # Use Active Storage variant
